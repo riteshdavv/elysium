@@ -1,8 +1,8 @@
-# Elysium | AI Reality Time Logger
-Tauri, Python, Llama API, PostgreSQL, Node.js, OS-level APIs (Windows), Selenium, WebSocket
+# 🏆 Elysium | AI Reality Time Logger
 
 An AI-powered desktop tool that improved user productivity by 40%, by comparing 500+ planned vs actual activity logs to help users reflect on how they spend time.
 
+Tech Stack: Tauri, Python, Llama API, PostgreSQL, Node.js, OS-level APIs (Windows), Selenium, WebSocket
 
 ## Project Overview
 
